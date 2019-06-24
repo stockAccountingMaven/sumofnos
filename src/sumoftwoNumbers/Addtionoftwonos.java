@@ -8,7 +8,7 @@ public class Addtionoftwonos {
 	   Addtionoftwonos obj = new Addtionoftwonos();
 	   
 	   
-	   obj.Add(10, 20);
+	   obj.Add(10, 30);
 		
 		
 		
